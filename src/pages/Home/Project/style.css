@@ -1,0 +1,15 @@
+.bgImage {
+  width: 100%;
+  background-image: url('../../../SVG/PNG/servicesbg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: auto;
+}
+@media screen and (min-width: 1380px) {
+  .bgImage {
+    width: 1950px !important;
+    height: 800px !important;
+    margin-top: 200px;
+  }
+}

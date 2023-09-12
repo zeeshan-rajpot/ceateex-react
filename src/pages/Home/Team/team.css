@@ -1,0 +1,14 @@
+.teambackground {
+  /* margin-top: 150px; */
+  position: relative;
+}
+.teambackground::before {
+  content: '';
+  background-image: url('../../../SVG/PNG/teambg.png');
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 1200px; /* Adjust this value as needed */
+  right: 1600px; /* Position the background image to the left */
+  width: 20vw; /* Ensure the background covers the entire width */
+  height: 19vw; /* Ensure the background covers the entire height */
+}
