@@ -1,6 +1,6 @@
 import React from 'react';
 import './portfoliotabcard.css';
-import arrowsvg from '../../../SVG/Subpages/PortfolioCard/Component 11 – 1.png';
+import arrowsvg from '../../../SVG/Subpages/PortfolioCard/Component 111.png'
 
 const Portfoliotabcard = ({ portfolioimg }) => {
   // Use destructuring to access the prop

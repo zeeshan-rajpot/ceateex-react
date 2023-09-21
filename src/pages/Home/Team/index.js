@@ -12,9 +12,7 @@ export const index = () => {
     <>
       <div
         className='teambackground'
-        style={{
-          paddingTop: '50%',
-        }}
+     
       >
         <Container
           style={{
@@ -46,28 +44,56 @@ export const index = () => {
               marginBottom: '20%',
             }}
           >
-            <Col>
+            <Col className='mt-5'> 
               <TeamCard
                 title='Web Developer'
                 subtitle='React Js'
                 image={person1} // Replace with the actual image path
               />
             </Col>
-            <Col>
+            <Col className='mt-5'>
               <TeamCard
                 title='Graphic Designer'
                 subtitle='Director/Co-founder'
                 image={person2} // Replace with the actual image path
               />
             </Col>
-            <Col>
+            <Col className='mt-5'>
               <TeamCard
                 title='Graphic Designer'
                 subtitle='Senior UI/UX Designer'
                 image={person3} // Replace with the actual image path
               />
             </Col>
-            <Col>
+            <Col className='mt-5'>
+              <TeamCard
+                title='Graphic Designer'
+                subtitle='Graphic Designer'
+                image={person4} // Replace with the actual image path
+              />
+            </Col>
+            <Col className='mt-5'>
+              <TeamCard
+                title='Graphic Designer'
+                subtitle='Graphic Designer'
+                image={person4} // Replace with the actual image path
+              />
+            </Col>
+            <Col className='mt-5'>
+              <TeamCard
+                title='Graphic Designer'
+                subtitle='Graphic Designer'
+                image={person4} // Replace with the actual image path
+              />
+            </Col>
+            <Col className='mt-5'>
+              <TeamCard
+                title='Graphic Designer'
+                subtitle='Graphic Designer'
+                image={person4} // Replace with the actual image path
+              />
+            </Col>
+            <Col className='mt-5'>
               <TeamCard
                 title='Graphic Designer'
                 subtitle='Graphic Designer'

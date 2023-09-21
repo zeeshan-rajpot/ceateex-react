@@ -26,15 +26,29 @@
   /* margin-top: 150px; */
   position: relative;
 }
-.background::before {
+/* .background::before {
   content: '';
   background-image: url('../../SVG/belowSubmitbtn.svg');
   background-repeat: no-repeat;
   position: absolute;
-  top: 390px; /* Adjust this value as needed */
-  left: 0; /* Position the background image to the left */
-  width: 20vw; /* Ensure the background covers the entire width */
-  height: 20vw; /* Ensure the background covers the entire height */
+  top: 90px; 
+  left: 0; 
+  width: 20vw; 
+  height: 20vw; 
+} */
+
+
+
+
+
+.background{
+  background-image: url('../../SVG/belowSubmitbtn.svg');
+  background-repeat: no-repeat;
+   background-position: left bottom;
+height: 80vh;
+
+
+
 }
 .color {
   color: #72b63c;
@@ -54,7 +68,7 @@
   top: 34;
   margin-left: 4px;
   width: 14%;
-  height: 10%;
+  height: 7%;
   background-size: cover;
 }
 .heroh6 {

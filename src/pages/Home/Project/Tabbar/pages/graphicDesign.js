@@ -35,12 +35,6 @@ export const graphicDesign = () => {
             }}
           />
         </Col>
-      </Row>
-      <Row
-        style={{
-          marginTop: '400px',
-        }}
-      >
         <Col>
           <PortfolioCard
             title='Reset Rental App'
@@ -52,6 +46,7 @@ export const graphicDesign = () => {
           />
         </Col>
       </Row>
+    
     </div>
   );
 };

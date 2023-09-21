@@ -10,8 +10,8 @@ export const About = () => {
       <div
         className='AboutBgImage'
         style={{
-          marginTop: '120px',
-          paddingBottom: '150px',
+          marginTop: '80px',
+          paddingBottom: '80px',
         }}
       >
         <Container>

@@ -13,7 +13,7 @@ const PortfolioCard = ({ title, imageSrc, detail }) => {
         style={{
           width: '20rem',
           height: '20rem',
-          position: 'absolute',
+          // position: 'absolute',
           borderRadius: '22px',
           marginTop: '70px',
         }}

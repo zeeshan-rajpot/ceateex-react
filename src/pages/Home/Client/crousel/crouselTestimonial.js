@@ -39,6 +39,7 @@ export const Testimonial = () => {
         emulateTouch={true}
         centerMode={true}
         centerSlidePercentage={33.33}
+        className='min-width-mobile'
       >
         <div className='carousel-image'>
           <Card isActive={activeIndex === 0} />

@@ -1,6 +1,7 @@
 .image {
   background-image: url('../../../SVG/PNG/Group\ 6499.jpg');
-  background-position: center;
+  background-position: start;
+  background-repeat: no-repeat;
   background-size: cover;
-  height: 500px;
+  background-size: 100% 60%;  
 }

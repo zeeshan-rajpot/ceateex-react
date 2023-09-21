@@ -35,23 +35,18 @@ export const uiUx = () => {
             }}
           />
         </Col>
-      </Row>
-      <Row
-        style={{
-          marginTop: '400px',
-        }}
-      >
         <Col>
           <PortfolioCard
             title='Reset Rental App'
             imageSrc='https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80'
             detail='Development . 22 June 2022'
             style={{
-              marginTop: '40px',
+              marginTop: '0px',
             }}
           />
         </Col>
       </Row>
+      
     </div>
   );
 };

@@ -10,6 +10,6 @@
   .bgImage {
     width: 1950px !important;
     height: 800px !important;
-    margin-top: 200px;
+    /* margin-top: 200px; */
   }
 }

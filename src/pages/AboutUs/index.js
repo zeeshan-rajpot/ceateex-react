@@ -20,7 +20,7 @@ import person4 from '../../SVG/PNG/Team4.jpg';
 import CrouselCard from '../Home/Client/crousel/crouselCard.js';
 import Prev from '../../SVG/prev.svg';
 import Next from '../../SVG/next.svg';
-import Whyuspng from '../../SVG/Subpages/AboutUs/final/Component 9 – 1.svg';
+import Whyuspng from '../../SVG/Subpages/AboutUs/final/Component 91.svg';
 import tick from '../../SVG/Subpages/AboutUs/final/Icon feather-check.svg';
 import NavBar from '../NavBar/index.js';
 import Footer from '../../Component/Footer';

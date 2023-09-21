@@ -35,12 +35,7 @@ export const Development = () => {
             }}
           />
         </Col>
-      </Row>
-      <Row
-        style={{
-          marginTop: '400px',
-        }}
-      >
+
         <Col>
           <PortfolioCard
             title='Reset Rental App'
@@ -52,6 +47,7 @@ export const Development = () => {
           />
         </Col>
       </Row>
+     
     </div>
   );
 };

@@ -3,7 +3,7 @@
   background-image: url('../../../SVG/AboutUsSideImage.svg');
   background-repeat: no-repeat;
   position: absolute;
-  top: 150px;
+  top: 0;
   left: 0;
   width: 80%;
   height: 80%;
@@ -18,9 +18,7 @@
     width: 100%;
     height: 100%;
   }
-  .AboutBgImage {
-    margin-top: 20% !important;
-  }
+
   .LMAboutUs {
     margin-top: 100px !important;
     width: 30% !important;
